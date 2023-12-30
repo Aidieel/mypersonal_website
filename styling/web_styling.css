@@ -1,0 +1,59 @@
+body
+{
+	font-family: timesnewroman;
+}
+
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: transparent;
+	font-family: tahoma;
+}
+
+li
+{
+float: right;
+}
+
+li a
+{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover
+{
+	background-color: skyblue;
+}
+
+body
+{
+	font-family: timesnewroman;
+
+}
+
+table, tr, td, th
+
+		td, th
+		{
+			padding: 5px;
+		}
+
+		th
+		{
+			width: 35%;
+		}
+
+		td
+		{
+			text-align: left;
+			width: 65%;
+			padding-left: 10px;
+			padding-right: 150px;
+		}
